@@ -8,6 +8,10 @@
     <td colspan="3" align="center">✨✨✨ Some of My Projects ✨✨✨</td>
   </tr>
   <tr>
+    <td>3.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/3532/3532091.png" width=40></td>
+        <td><a target="_blank" href="https://moonlit-pie-990c5f.netlify.app">Simple CRUD Book Store with Html & Jquery</a></td>
+   </tr>
     <td>2.</td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/6357/6357834.png" width=40></td>
         <td><a target="_blank" href="https://courageous-bavarois-84eb03.netlify.app">Simple Counter with Html & Jquery</a></td>
