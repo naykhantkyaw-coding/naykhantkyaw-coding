@@ -3,7 +3,11 @@
 <h3 align="center">🌱</h3>
 <h4 align="center">⚡It's me Rasunon Soare a Junior Webdeveloper in Myanmar. You can call me Ra!⚡</h4>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasunon-Soare&show_icons=true&theme=github_dark)
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasunon-Soare&show_icons=true&theme=github_dark)
+  
+</div>
 
 
 <table align="center">
