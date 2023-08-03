@@ -3,6 +3,9 @@
 <h3 align="center">🌱</h3>
 <h4 align="center">⚡It's me Rasunon Soare a Junior Webdeveloper in Myanmar. You can call me Ra!⚡</h4>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasunon-Soare&show_icons=true&theme=github_dark)
+
+
 <table align="center">
   <tr>
     <td colspan="3" align="center">✨✨✨ Some of My Projects ✨✨✨</td>
