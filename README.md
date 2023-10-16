@@ -1,7 +1,7 @@
 <h1 align="center">Hello, there! 👋</h1>
 
 <h3 align="center">🌱</h3>
-<h4 align="center">⚡It's me Rasunon Soare a Junior Webdeveloper in Myanmar. You can call me Ra!⚡</h4>
+<h4 align="center">⚡It's me Rasunon Soare a Junior Webdeveloper from Myanmar. You can call me Ra!⚡</h4>
 
 <div align="center">
   
