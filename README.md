@@ -16,6 +16,10 @@
     <td colspan="3" align="center">✨✨✨ Some of My Projects ✨✨✨</td>
   </tr>
   <tr>
+    <td>4.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/5807/5807705.png" width=40></td>
+        <td><a target="_blank" href="https://helpful-dasik-5cb47b.netlify.app">Simple ToDo App</a></td>
+   </tr>
     <td>3.</td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/3532/3532091.png" width=40></td>
         <td><a target="_blank" href="https://moonlit-pie-990c5f.netlify.app">Simple CRUD Book Store with Html & Jquery</a></td>
