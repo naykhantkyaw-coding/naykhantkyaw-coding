@@ -2,13 +2,13 @@
 <h1 align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/christmasparrot.gif" width="30" height="30"/> Nice to meet Ya! <img src="https://cultofthepartyparrot.com/parrots/hd/christmasparrot.gif" width="30" height="30"/> </h1>
 
 <h3 align="center">🌱</h3>
-<h4 align="center">⚡It's me Rasunon Soare Junior Webdeveloper from Myanmar. You can call me Ra!⚡</h4>
+<h4 align="center">⚡It's me Nay Khant Kyaw Junior Webdeveloper from Myanmar. You can call me Ra!⚡</h4>
 
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasunon-Soare&show_icons=true&theme=github_dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naykhantkyaw-coding&show_icons=true&theme=github_dark)
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasunon-Soare&theme=github_dark)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naykhantkyaw-coding&theme=github_dark)
   
 </div>
 
