@@ -9,9 +9,10 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naykhantkyaw-coding&show_icons=true&theme=github_dark)
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naykhantkyaw-coding&theme=github_dark)
-
+   
+ <a href="https://app.daily.dev/naykhantkyaw"><img src="https://api.daily.dev/devcards/v2/0qQ64q8N5XzNB0TzekWEn.png?r=3o5&type=wide" width="652" alt="Nay Khant Kyaw's Dev Card"/></a>
+ 
 </div>
- <a href="https://app.daily.dev/naykhantkyaw"><img src="https://api.daily.dev/devcards/v2/0qQ64q8N5XzNB0TzekWEn.png?r=3o5" width="356" alt="Nay Khant Kyaw's Dev Card"/></a>
 <table align="center">
   <tr>
     <td colspan="3" align="center">✨✨✨ Some of My Projects ✨✨✨</td>
