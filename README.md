@@ -39,7 +39,6 @@
         <td><img src="https://www.pngplay.com/wp-content/uploads/6/Beach-Coconut-Tree-Vector-Transparent-Free-PNG.png" width=40></td>
         <td><a target="_blank" href="https://travel-testing.netlify.app">Simple Travel Agency Web Design With Html & Css</a></td>
    </tr>
-  
   </table>
  
 
