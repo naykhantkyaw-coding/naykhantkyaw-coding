@@ -16,6 +16,12 @@
   <tr>
     <td colspan="3" align="center">✨✨✨ Some of My Projects ✨✨✨</td>
   </tr>
+   <tr>
+    <td>6.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/9850/9850812.png" width=40></td>
+    <td><a target="_blank" href="https://blazortodoapp-web.vercel.app/">To Do</a></td>
+    </tr>
+  <tr>
   <tr>
     <td>5.</td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/9850/9850812.png" width=40></td>
