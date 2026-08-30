@@ -18,7 +18,7 @@
   </tr>
    <tr>
     <td>6.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/9850/9850812.png" width=40></td>
+    <td><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/01611670-3e63-40c8-b60d-df58e0aea746" /></td>
     <td><a target="_blank" href="https://blazortodoapp-web.vercel.app/">To Do</a></td>
     </tr>
   <tr>
